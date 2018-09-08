@@ -11,6 +11,7 @@ selanjutnya klik **disable path length limit** untuk memudahkan ketika kedepanny
 
 ![install_2()](https://github.com/zthomaz/workshop-python/blob/master/minggu-01/images/Screenshot_2.png)
 # Calculator dan Number
+Number adalah salah satu tipe data dasar di Python. Python mendukung bilangan bulat (integer), bilangan pecahan (float), dan bilangan kompleks (complex).
 Python dapat digunakan sebagai kalkulator dan juga untuk menghitung operator aritmatika seperti biasa, ada beberapa yang harus diperhatikan yaitu : 
 ```//``` digunakan untuk membulatkan hasil kebawah -
 ```%``` digunakan untuk mengetahui sisa hasil bagi atau biasa kita sebut modulus -
