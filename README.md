@@ -6,7 +6,7 @@ Python adalah bahasa pemrograman interpretatif multiguna dengan filosofi peranca
 
 ## Materi Workshop
 
-| Minggu | Judul | Sumber |
+| Minggu | Judul | Keterangan |
 | ------- | ------ |------ |
 | 1 | Instalasi dan Penggunaan *Interpreter* Python | Number, String, List - [link](https://github.com/zthomaz/workshop-python/tree/master/minggu-01) | 
 | 2 | Pengendali Aliran Program | Tutorial - bab 4 | 
