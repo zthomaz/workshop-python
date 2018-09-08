@@ -1,17 +1,14 @@
 # workshop-python
-Workshop ini membahas dasar-dasar pemrograman menggunakan Python serta pengenalan beberapa topik spesifik yang biasanya diselesaikan menggunakan Python. Workshop ini bisa diselesaikan menggunakan sofware [Python dari situs resmi](https://www.python.org) maupun menggunakan distribusi lain seperti [Anaconda](https://www.anaconda.com/). Python dari web resmi Python selalu mengacu ke versi stabil terakhir. Distribusi seperti **Anaconda** kemungkinan menggunakan versi yang lebih rendah. Versi Python yang digunakan kemungkinan bervariasi dan akan dibahas secara spesifik di kelas.
+Python adalah bahasa pemrograman interpretatif multiguna dengan filosofi perancangan yang berfokus pada tingkat keterbacaan kode. Python diklaim sebagai bahasa yang menggabungkan kapabilitas, kemampuan, dengan sintaksis kode yang sangat jelas, dan dilengkapi dengan fungsionalitas pustaka standar yang besar serta komprehensif. Python juga didukung oleh komunitas yang besar.
 
-## Resources
-
-* [Repo Akademik](https://github.com/oldstager/academic)
+## Sumber
 * [Python documentation](https://docs.python.org/3/)
-* [Conda package and environment manager](https://conda.io)
 
 ## Materi Workshop
 
 | Minggu | Judul | Sumber |
 | ------- | ------ |------ |
-| 1 | Instalasi dan Penggunaan *Interpreter* Python | Number, String, List [link](https://github.com/zthomaz/workshop-python/tree/master/minggu-01) | 
+| 1 | Instalasi dan Penggunaan *Interpreter* Python | Number, String, List - [link](https://github.com/zthomaz/workshop-python/tree/master/minggu-01) | 
 | 2 | Pengendali Aliran Program | Tutorial - bab 4 | 
 | 3 | Struktur Data | Tutorial - bab 5 | 
 | 4 | Modul di Python | Tutorial - bab 6 | 
