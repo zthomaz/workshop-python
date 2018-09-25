@@ -22,4 +22,5 @@ elif x == 1:
     print('Single')
 else:
     print('More')```
+
 maka ketika di running hasilnya ```More```
