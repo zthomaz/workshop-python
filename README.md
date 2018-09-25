@@ -10,7 +10,7 @@ Python adalah bahasa pemrograman interpretatif multiguna dengan filosofi peranca
 | Minggu | Judul | Keterangan |
 | ------- | ------ |------ |
 | 1 | Instalasi dan Penggunaan *Interpreter* Python | Number, String, List - [link](https://github.com/zthomaz/workshop-python/tree/master/minggu-01) | 
-| 2 | Pengendali Aliran Program | Tutorial - bab 4 - [link](https://github.com/zthomaz/workshop-python/blob/master/minggu-02/README.md) | 
+| 2 | Pengendali Aliran Program | Tutorial - bab 4 - [link](https://github.com/zthomaz/workshop-python/tree/master/minggu-02) | 
 | 3 | Struktur Data | Tutorial - bab 5 | 
 | 4 | Modul di Python | Tutorial - bab 6 | 
 | 5 | I/O | Tutorial - bab 7 | 
