@@ -11,9 +11,9 @@ Python adalah bahasa pemrograman interpretatif multiguna dengan filosofi peranca
 | ------- | ------ |------ |
 | 1 | Instalasi dan Penggunaan *Interpreter* Python | Number, String, List - [link](https://github.com/zthomaz/workshop-python/tree/master/minggu-01) | 
 | 2 | Pengendali Aliran Program | Tutorial - bab 4 - [link](https://github.com/zthomaz/workshop-python/tree/master/minggu-02) | 
-| 3 | Struktur Data | Tutorial - bab 5 | 
-| 4 | Modul di Python | Tutorial - bab 6 | 
-| 5 | I/O | Tutorial - bab 7 | 
+| 3 | Struktur Data | Tutorial - bab 5 - [link](https://github.com/zthomaz/workshop-python/tree/master/minggu-03| 
+| 4 | Modul di Python | Tutorial - bab 6 - [link](https://github.com/zthomaz/workshop-python/tree/master/minggu-04)| 
+| 5 | I/O | Tutorial - bab 7 - [link](https://github.com/zthomaz/workshop-python/tree/master/minggu-05) | 
 | 6 | Penanganan Error dan Exception | Tutorial - bab 8 | 
 | 7 | OOP di Python | Tutorial - bab 9 | 
 | 8 | Pustaka Standar | Tutorial - bab 10 dan 11 | 
