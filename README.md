@@ -15,7 +15,7 @@ Python adalah bahasa pemrograman interpretatif multiguna dengan filosofi peranca
 | 4 | Modul di Python | Tutorial - bab 6 - [link](https://github.com/zthomaz/workshop-python/tree/master/minggu-04)| 
 | 5 | I/O | Tutorial - bab 7 - [link](https://github.com/zthomaz/workshop-python/tree/master/minggu-05) | 
 | 6 | Penanganan Error dan Exception | Tutorial - bab 8 - [link](https://github.com/zthomaz/workshop-python/tree/master/minggu-06) | | 
-| 7 | OOP di Python | Tutorial - bab 9 | 
+| 7 | OOP di Python | Tutorial - bab 9 - [link](https://github.com/zthomaz/workshop-python/tree/master/minggu-07) | |
 | 8 | Pustaka Standar | Tutorial - bab 10 dan 11 | 
 | 9 | Virtual Environment dan Package Manager | Tutorial - bab 12 | 
 | 10 | Akses ke Basis Data | PEP-249, dokumentasi psycopg, [PyMongo](https://github.com/mongodb/mongo-python-driver), [SQLAlchemy](https://www.sqlalchemy.org/), CockroachDB |
